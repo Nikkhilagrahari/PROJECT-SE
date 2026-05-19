@@ -62,7 +62,7 @@ From the `backend` directory, run:
 ```bash
 npm run dev
 ```
-The server will start at `http://localhost:5000`.
+The server will start at `https://project-se-soe4.onrender.com`.
 
 ### 2. Start the Frontend
 You can serve the `frontend` folder using any static file server or by opening `index.html` in your browser. Using `npx serve` is recommended:
